@@ -25,7 +25,7 @@ if (randomNum == 2 || randomNum == 4) {
 
 //BONUS
 //2
-randomNum >= 4 ? `Greater than or equal to 4` : `Less than 4`
+console.log(randomNum >= 4 ? `Greater than or equal to 4` : `Less than 4`)
 
 //3 
 switch(randomNum) {
